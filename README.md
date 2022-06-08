@@ -1,2 +1,5 @@
 # microsoftLearn
-Cloning website
+https://docs.microsoft.com/en-us/learn/
+
+
+for educational purposes
